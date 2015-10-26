@@ -1,0 +1,392 @@
+{
+  "code": 200,
+  "msg": {
+    "list": [
+      {
+        "type": 1,
+        "updateItem": {
+          "thirdPartyShopId": 1212,
+          "realShopId": 1212,
+          "thirdPartyId": 1212,
+          "thirdPartyName": "测试名称",
+          "statusText": "a",
+          "startDate": "2015-01-01",
+          "btns": [
+            {
+              "updateItemList": [
+                {
+                  "realShopId": 12222,
+                  "thirdPartyShopId": 12123,
+                  "thirdPartyId": 1213,
+                  "startDate": "2015-01-01",
+                  "thirdPartyName": "测试名称"
+                },
+                {
+                  "realShopId": 12222,
+                  "thirdPartyShopId": 12123,
+                  "thirdPartyId": 1213,
+                  "startDate": "2015-01-01",
+                  "thirdPartyName": [
+                    {
+                      "updateItemList": [
+                        {
+                          "realShopId": 12222,
+                          "thirdPartyShopId": 12123,
+                          "thirdPartyId": 1213,
+                          "startDate": "2015-01-01",
+                          "thirdPartyName": "测试名称"
+                        },
+                        {
+                          "realShopId": 12222,
+                          "thirdPartyShopId": 12123,
+                          "thirdPartyId": 1213,
+                          "startDate": "2015-01-01",
+                          "thirdPartyName": "测试名称"
+                        }
+                      ]
+                    },
+                    {
+                      "updateItemList": [
+                        {
+                          "realShopId": 12222,
+                          "thirdPartyShopId": 12123,
+                          "thirdPartyId": 1213,
+                          "startDate": "2015-01-01",
+                          "thirdPartyName": "测试名称"
+                        },
+                        {
+                          "realShopId": 12222,
+                          "thirdPartyShopId": 12123,
+                          "thirdPartyId": 1213,
+                          "startDate": "2015-01-01",
+                          "thirdPartyName": [
+                            {
+                              "updateItemList": [
+                                {
+                                  "realShopId": 12222,
+                                  "thirdPartyShopId": 12123,
+                                  "thirdPartyId": 1213,
+                                  "startDate": "2015-01-01",
+                                  "thirdPartyName": "测试名称"
+                                },
+                                {
+                                  "realShopId": 12222,
+                                  "thirdPartyShopId": 12123,
+                                  "thirdPartyId": 1213,
+                                  "startDate": "2015-01-01",
+                                  "thirdPartyName": "测试名称"
+                                }
+                              ]
+                            },
+                            {
+                              "updateItemList": [
+                                {
+                                  "realShopId": 12222,
+                                  "thirdPartyShopId": 12123,
+                                  "thirdPartyId": 1213,
+                                  "startDate": "2015-01-01",
+                                  "thirdPartyName": "测试名称"
+                                },
+                                {
+                                  "realShopId": 12222,
+                                  "thirdPartyShopId": 12123,
+                                  "thirdPartyId": 1213,
+                                  "startDate": "2015-01-01",
+                                  "thirdPartyName": "测试名称"
+                                }
+                              ]
+                            },
+                            {
+                              "updateItemList": [
+                                {
+                                  "realShopId": 12222,
+                                  "thirdPartyShopId": 12123,
+                                  "thirdPartyId": 1213,
+                                  "startDate": "2015-01-01",
+                                  "thirdPartyName": "测试名称"
+                                },
+                                {
+                                  "realShopId": 12222,
+                                  "thirdPartyShopId": 12123,
+                                  "thirdPartyId": 1213,
+                                  "startDate": "2015-01-01",
+                                  "thirdPartyName": "测试名称"
+                                }
+                              ]
+                            },
+                            {
+                              "updateItemList": [
+                                {
+                                  "realShopId": 12222,
+                                  "thirdPartyShopId": 12123,
+                                  "thirdPartyId": 1213,
+                                  "startDate": "2015-01-01",
+                                  "thirdPartyName": "测试名称"
+                                },
+                                {
+                                  "realShopId": 12222,
+                                  "thirdPartyShopId": 12123,
+                                  "thirdPartyId": 1213,
+                                  "startDate": "2015-01-01",
+                                  "thirdPartyName": [
+                                    {
+                                      "updateItemList": [
+                                        {
+                                          "realShopId": 12222,
+                                          "thirdPartyShopId": 12123,
+                                          "thirdPartyId": 1213,
+                                          "startDate": "2015-01-01",
+                                          "thirdPartyName": "测试名称"
+                                        },
+                                        {
+                                          "realShopId": 12222,
+                                          "thirdPartyShopId": 12123,
+                                          "thirdPartyId": 1213,
+                                          "startDate": "2015-01-01",
+                                          "thirdPartyName": "测试名称"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "updateItemList": [
+                                        {
+                                          "realShopId": 12222,
+                                          "thirdPartyShopId": 12123,
+                                          "thirdPartyId": 1213,
+                                          "startDate": "2015-01-01",
+                                          "thirdPartyName": "测试名称"
+                                        },
+                                        {
+                                          "realShopId": 12222,
+                                          "thirdPartyShopId": 12123,
+                                          "thirdPartyId": 1213,
+                                          "startDate": "2015-01-01",
+                                          "thirdPartyName": "测试名称"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "updateItemList": [
+                                        {
+                                          "realShopId": 12222,
+                                          "thirdPartyShopId": 12123,
+                                          "thirdPartyId": 1213,
+                                          "startDate": "2015-01-01",
+                                          "thirdPartyName": "测试名称"
+                                        },
+                                        {
+                                          "realShopId": 12222,
+                                          "thirdPartyShopId": 12123,
+                                          "thirdPartyId": 1213,
+                                          "startDate": "2015-01-01",
+                                          "thirdPartyName": "测试名称"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "updateItemList": [
+                                        {
+                                          "realShopId": 12222,
+                                          "thirdPartyShopId": 12123,
+                                          "thirdPartyId": 1213,
+                                          "startDate": "2015-01-01",
+                                          "thirdPartyName": "测试名称"
+                                        },
+                                        {
+                                          "realShopId": 12222,
+                                          "thirdPartyShopId": 12123,
+                                          "thirdPartyId": 1213,
+                                          "startDate": "2015-01-01",
+                                          "thirdPartyName": {
+                                            "updateItemList": [
+                                              {
+                                                "realShopId": 12222,
+                                                "thirdPartyShopId": 12123,
+                                                "thirdPartyId": 1213,
+                                                "startDate": "2015-01-01",
+                                                "thirdPartyName": "测试名称"
+                                              },
+                                              {
+                                                "realShopId": 12222,
+                                                "thirdPartyShopId": 12123,
+                                                "thirdPartyId": 1213,
+                                                "startDate": "2015-01-01",
+                                                "thirdPartyName": "测试名称"
+                                              }
+                                            ]
+                                          }
+                                        },
+                                        {
+                                          "updateItemList": [
+                                            {
+                                              "realShopId": 12222,
+                                              "thirdPartyShopId": 12123,
+                                              "thirdPartyId": 1213,
+                                              "startDate": "2015-01-01",
+                                              "thirdPartyName": "测试名称"
+                                            },
+                                            {
+                                              "realShopId": 12222,
+                                              "thirdPartyShopId": 12123,
+                                              "thirdPartyId": 1213,
+                                              "startDate": "2015-01-01",
+                                              "thirdPartyName": {
+                                                "updateItemList": [
+                                                  {
+                                                    "realShopId": 12222,
+                                                    "thirdPartyShopId": 12123,
+                                                    "thirdPartyId": 1213,
+                                                    "startDate": "2015-01-01",
+                                                    "thirdPartyName": "测试名称"
+                                                  },
+                                                  {
+                                                    "realShopId": 12222,
+                                                    "thirdPartyShopId": 12123,
+                                                    "thirdPartyId": 1213,
+                                                    "startDate": "2015-01-01",
+                                                    "thirdPartyName": "测试名称"
+                                                  }
+                                                ]
+                                              }
+                                            },
+                                            {
+                                              "updateItemList": [
+                                                {
+                                                  "realShopId": 12222,
+                                                  "thirdPartyShopId": 12123,
+                                                  "thirdPartyId": 1213,
+                                                  "startDate": "2015-01-01",
+                                                  "thirdPartyName": "测试名称"
+                                                },
+                                                {
+                                                  "realShopId": 12222,
+                                                  "thirdPartyShopId": 12123,
+                                                  "thirdPartyId": 1213,
+                                                  "startDate": "2015-01-01",
+                                                  "thirdPartyName": {
+                                                    "updateItemList": [
+                                                      {
+                                                        "realShopId": 12222,
+                                                        "thirdPartyShopId": 12123,
+                                                        "thirdPartyId": 1213,
+                                                        "startDate": "2015-01-01",
+                                                        "thirdPartyName": "测试名称"
+                                                      },
+                                                      {
+                                                        "realShopId": 12222,
+                                                        "thirdPartyShopId": 12123,
+                                                        "thirdPartyId": 1213,
+                                                        "startDate": "2015-01-01",
+                                                        "thirdPartyName": "测试名称"
+                                                      }
+                                                    ]
+                                                  }
+                                                },
+                                                {
+                                                  "updateItemList": [
+                                                    {
+                                                      "realShopId": 12222,
+                                                      "thirdPartyShopId": 12123,
+                                                      "thirdPartyId": 1213,
+                                                      "startDate": "2015-01-01",
+                                                      "thirdPartyName": "测试名称"
+                                                    },
+                                                    {
+                                                      "realShopId": 12222,
+                                                      "thirdPartyShopId": 12123,
+                                                      "thirdPartyId": 1213,
+                                                      "startDate": "2015-01-01",
+                                                      "thirdPartyName": {
+                                                        "updateItemList": [
+                                                          {
+                                                            "realShopId": 12222,
+                                                            "thirdPartyShopId": 12123,
+                                                            "thirdPartyId": 1213,
+                                                            "startDate": "2015-01-01",
+                                                            "thirdPartyName": "测试名称"
+                                                          },
+                                                          {
+                                                            "realShopId": 12222,
+                                                            "thirdPartyShopId": 12123,
+                                                            "thirdPartyId": 1213,
+                                                            "startDate": "2015-01-01",
+                                                            "thirdPartyName": "测试名称"
+                                                          }
+                                                        ]
+                                                      }
+                                                    },
+                                                    {
+                                                      "updateItemList": [
+                                                        {
+                                                          "realShopId": 12222,
+                                                          "thirdPartyShopId": 12123,
+                                                          "thirdPartyId": 1213,
+                                                          "startDate": "2015-01-01",
+                                                          "thirdPartyName": "测试名称"
+                                                        },
+                                                        {
+                                                          "realShopId": 12222,
+                                                          "thirdPartyShopId": 12123,
+                                                          "thirdPartyId": 1213,
+                                                          "startDate": "2015-01-01",
+                                                          "thirdPartyName": "测试名称"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "updateItemList": [
+          {
+            "realShopId": 12222,
+            "thirdPartyShopId": 12123,
+            "thirdPartyId": 1213,
+            "startDate": "2015-01-01",
+            "thirdPartyName": "测试名称"
+          },
+          {
+            "realShopId": 12222,
+            "thirdPartyShopId": 12123,
+            "thirdPartyId": 1213,
+            "startDate": "2015-01-01",
+            "thirdPartyName": "测试名称"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "updateItem": {
+          "thirdPartyShopId": 1212,
+          "realShopId": 1212,
+          "thirdPartyId": 1212,
+          "thirdPartyName": "测试名称",
+          "statusText": "a",
+          "startDate": "2015-01-01",
+          "btns": []
+        }
+      }
+    ],
+    "message": "Success: 1, Failed: 3"
+  }
+}

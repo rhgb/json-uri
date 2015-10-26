@@ -1,0 +1,18 @@
+{
+  "transferParam": {
+    "shopId": 4060660,
+    "shopid": 4060660,
+    "shopname": "侬好蛙干锅传奇中山公园店",
+    "amount": null,
+    "nodiscount": null,
+    "nodiscountamount": null,
+    "thirdPartyOrderType": null,
+    "thirdPartyOrderId": "",
+    "outBizType": null,
+    "outBizId": "",
+    "promoString": "",
+    "sourcetype": 0
+  },
+  "callAppAllowedDevice": "%7B%22ios%22%3A%227+8+9%22%2C%22android%22%3A%224.4+5%22%7D",
+  "shopJumpCode": 1
+}

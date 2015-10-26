@@ -1,0 +1,54 @@
+{
+  "offers": [
+    {
+      "unifiedId": "202_518692",
+      "productType": 202,
+      "unicashierBaseDeductionDO": {
+        "unicashierStepCashDeductionDO": {
+          "step": 100,
+          "deduce": 15,
+          "limitTime": 0,
+          "maxCount": 0,
+          "minCount": 0
+        }
+      },
+      "defaultValue": "0",
+      "enabled": true,
+      "dealId": 0,
+      "dealGroupId": 0
+    },
+    {
+      "unifiedId": "102_6535563_6439224",
+      "productType": 102,
+      "unicashierBaseDeductionDO": {
+        "unicashierStepCashDeductionDO": {
+          "step": 100.00,
+          "deduce": 12.00,
+          "limitTime": 99,
+          "maxCount": 0,
+          "minCount": 0
+        }
+      },
+      "defaultValue": "0",
+      "enabled": true,
+      "dealId": 6535563,
+      "dealGroupId": 6439224,
+      "originAmount": 100.00,
+      "realAmount": 88.00,
+      "endDate": "Dec 1, 2015 11:59:59 PM"
+    }
+  ],
+  "point": {
+    "remainPointIssue": 30000,
+    "pointRatio": 1,
+    "enable": true,
+    "dpActivitySwitch": true
+  },
+  "shopId": 17877763,
+  "productCodes": [
+    11
+  ],
+  "extra": {
+    "tuangouProductCode": 1
+  }
+}

@@ -1,16 +1,15 @@
 'use strict';
 /**
- * 单字符分隔符
- * [注意]出于兼容性考虑, 该字段只允许向后添加新项, 不得删除或改变原有项
+ * Single-character delimiters
+ * [CAUTION] For compatibility reasons, only APPEND extra items but not modify or delete items
  * @type {string[]}
  */
 var SINGLE_DELIMITERS = '",:{}[]'.split('');
 /**
- * 多字符分隔符
- * [注意]出于兼容性考虑, 该字段只允许向后添加新项, 不得删除或改变原有项
+ * Multi-character delimiters, selected based on analysis of several JSON samples
+ * [CAUTION] For compatibility reasons, only APPEND extra items but not modify or delete items
  * @type {string[]}
  */
-//var COMPLEX_DELIMITERS = ['","', '":"', ':{"', '"},'];
 var COMPLEX_DELIMITERS = [ '":', ',"', '","', '":"', '":{"', '"},"'];
 
 var CANDIDATE_CHARS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz_!~*\'()'.split('');
@@ -36,13 +35,12 @@ function findSingleVacancies(str, size) {
     return vacs;
 }
 /**
- * Find
+ * Find two-character vacancies of a string; currently unused
  * @param {string} str
  * @param {number} [size]
  * @returns {string[]}
  */
 function findDoubleVacancies(str, size) {
-
     var vacs = [];
     for (var i = 0; i < CANDIDATE_CHARS.length; i++) {
         for (var j = 0; j < CANDIDATE_CHARS.length; j++) {

@@ -18,12 +18,40 @@ json-uri has some difference from similar packages like `json-url` and `juri`:
 
 ## Usage
 
+Encode:
+
 ```javascript
 var ju = require('json-uri');
 var jsonStr = JSON.stringify(obj);
 var encodedStr = ju.encode(jsonStr);
-var decodedStr = ju.decode(encodedStr);
+window.location.href = 'http://example.com/?' + encodeURIComponent(encodedStr);
 ```
+
+Decode:
+
+```javascript
+var param = window.location.search.slice(1);
+var encodedStr = decodeURIComponent(param);
+var decodedStr = ju.decode(encodedStr);
+var obj = JSON.parse(decodedStr);
+```
+
+## API
+
+`var ju = require('json-uri');`
+
+* __ju.encode(str)__
+    
+    Encode JSON string to json-uri string.
+    
+    + __str__ `string` JSON string to be encoded
+
+* __ju.decode(str)__
+    
+    Decode json-uri string to JSON string.
+    
+    + __str__ `string` json-uri string to be decoded
+    + _throws_ __SyntaxError__ when the given string is of wrong format
 
 ## TODO
 
